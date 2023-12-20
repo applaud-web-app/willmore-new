@@ -1,0 +1,29 @@
+
+ALTER TABLE `users` ADD `client_id` VARCHAR(20) NULL AFTER `last_sign_in`;
+ALTER TABLE `users` CHANGE `country` `country` VARCHAR(255) NULL DEFAULT NULL;
+ALTER TABLE `users` ADD `place_of_issue` VARCHAR(155) NULL AFTER `passport_issued_date`;
+ALTER TABLE `consultation_contact_request` ADD `email` VARCHAR(155) NULL AFTER `message`;
+
+INSERT INTO `packages` (`id`, `package_name`, `package_desc`, `package_price`, `package_image`, `created_at`, `updated_at`) VALUES (NULL, 'Will Template Download', 'We are here to assist you with your custom Will', '10', NULL, '2023-03-28 18:03:29', '2023-03-28 18:03:29');
+
+ALTER TABLE `beneficiaries` ADD `passport_number` VARCHAR(155) NULL AFTER `aadhar_number`;
+
+
+COUNTRY_DROPDOWN_API_KEY = CfiV7iBIktgdrpwKiE_SOo9q_A1AYmCggUxyDVICP6m6PZD7p1s7Q9jsNY3wEZp8w3k
+COUNTRY_DROPDOWN_API_EMAIL = rawat8457@gmail.com
+
+
+recaptcha from here
+https://www.google.com/recaptcha/admin/create
+
+====create new TABLE
+user_calendly_events
+consultation_payments
+
+//email Template
+INSERT INTO `email_templates` (`id`, `template_name`, `email_subject`, `email_body`, `email_help`, `image1`, `image2`, `created_at`, `updated_at`) VALUES (NULL, 'Will Template Download', 'Will Template Download', '<!DOCTYPE html>\r\n<html>\r\n<head>\r\n</head>\r\n<body>\r\n <h4>Download Template Attachment Below.</h4>\r\n</body>\r\n</html>', NULL, NULL, NULL, '2020-11-13 11:32:03', '2021-01-11 18:20:30');
+
+
+
+INSERT INTO `packages` (`id`, `package_name`, `package_desc`, `package_price`, `package_image`, `created_at`, `updated_at`) VALUES (NULL, 'Will Location Search', 'We are here to assist you with your custom Will', '0', NULL, '2023-03-28 18:03:29', '2023-03-28 18:03:29');
+

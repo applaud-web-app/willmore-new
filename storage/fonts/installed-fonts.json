@@ -1,0 +1,10 @@
+{
+    "overlock": {
+        "italic": "D:\\xampp\\htdocs\\willandmore_v2\\storage\\fonts\/overlock_italic_afdcb306107132550bfca851f7579a9b",
+        "bold_italic": "D:\\xampp\\htdocs\\willandmore_v2\\storage\\fonts\/overlock_bold_italic_737cec45abae45cbb5e94fa7ed9eb0f1",
+        "900_italic": "D:\\xampp\\htdocs\\willandmore_v2\\storage\\fonts\/overlock_900_italic_d9b3146f9222b8a4dffa1a01ab460b35",
+        "normal": "D:\\xampp\\htdocs\\willandmore_v2\\storage\\fonts\/overlock_normal_9e58773c51afe347014842082838dcb4",
+        "bold": "D:\\xampp\\htdocs\\willandmore_v2\\storage\\fonts\/overlock_bold_b7911f3af515b39e2f43bc419e8e5101",
+        "900": "overlock_900_a7865ecaedfeadfb5f02374b205917f3"
+    }
+}

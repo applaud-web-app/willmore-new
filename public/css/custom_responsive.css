@@ -1,0 +1,974 @@
+
+@media (max-width: 1370px) {
+.for_filter_srch001 {
+  width: 28%;
+}
+.refinee1{
+	width: 26.4%;
+	margin: 0 0 0 1.5%;
+}
+.login_rm02 .form-group label {
+    font-size: 14px;
+}
+}
+/*1370*/
+
+@media (max-width: 1299px){
+    .cash_fix{
+        width:27% !important;
+    }
+    .team_boxx_size .team .team-info {
+        min-height: 374px;
+    }
+}
+
+
+
+@media (max-width: 1199px) {
+/*table*/
+.add_rm02 ul li {
+    margin: 0 20px 0 0;
+    font-size: 15px;
+}
+.inner_page_header {
+  padding-top: 0;
+}
+.for_filter_srch001 {
+  width: 36.5%;
+}
+.added_beneficiariess h3 {
+  margin: 0 25px 0 0;
+  width: 30%;
+}
+.cols_body p {
+  line-height: 22px;
+}
+.refinee1{
+	width: 25.4%;
+	margin: 0 0 0 1.5%;
+}
+.header-content nav ul li a {
+  padding: 53px 14px 21px;
+}
+.inner_page_header .header-content nav ul li a {
+  padding: 39px 8px 34px;
+}
+
+.header-content nav ul li a {
+
+  font-size: 14px;
+ 
+}
+.cash_fix {
+    width: 33% !important;
+}
+
+.for_badd {
+    font-size: 13px !important;
+    padding: 10px 13px;
+}
+.main-banner .banner-text {
+  flex: 0 0 100%;
+  max-width: calc(100% - 130px);
+}
+
+
+.main-banner .banner-text > h2 {
+  font-size: 84px;
+  max-width: 100%;
+}
+.block_1_top {
+  padding: 100px 0px 50px 0px;
+}
+.team_boxx_size .team .team-info {
+    min-height:399px;
+}
+}
+/*1199*/
+
+
+
+
+@media (max-width: 1050px) {
+.cols_haead h2 {
+  font-size: 20px;
+  margin-top: 16px;
+  line-height: 22px;
+}
+.cash_fix_1{
+    margin: 0 1% 0 1.5%;
+}
+.cash_fix_1 h4{
+    font-size: 16px;
+}
+.services_page .refinee03 {
+	width: 31%;
+}
+.services_page .for_filter_srch002 {
+	margin:0px 0 0 1.5%;
+}
+.posts .post .post-info{
+  padding: 46px 35px 44px !important;
+}
+.purchase_btn {
+	margin: 0px 0px 0px 0px;
+}
+.more_blogs{
+  margin:29px auto 0px auto;
+}
+.nwdes-sec .top_battn_new {
+	top: 0px;
+}
+.top_battn_new {
+	top: 0px;
+	padding: 6px 11px;
+}
+}
+
+
+@media (max-width: 991px) {
+.login_rm {
+	max-width: 100%;
+	padding: 74px 105px 77px;
+}
+.contact_section .cnst-form .consulation-form form .submit {
+  margin-top: 0;
+}
+/*table*/
+.amnt-tble {
+    display: none !important;
+}
+.small_screen2 {
+    background: #fff none repeat scroll 0 0;
+	border: 1px solid #ddd;
+	float: left;
+	margin: 1% !important;
+	overflow: hidden;
+	padding: 0;
+	width: 48% !important;
+	box-shadow: none;
+}
+.amunt-detail {
+    border-bottom: 1px solid #e8e8e8;
+    font-size: 13px;
+    padding: 6px 8px 26px;
+}
+.cel_area {
+  display: block !important;
+  padding: 8px 8px;
+  float: left;
+  width: 100%;
+}
+.amunt-detail {
+    text-align: left;
+}
+.hide_big {
+    display: block !important;
+    float: left;
+    margin: 0;
+    width: 40%;
+}
+.sm_size{
+	display: block !important;
+    float: left;
+    margin: 0;
+    width: 60%;
+}
+.checkbox-group label .box {
+	left: 0 !important;
+}
+.clm-paper2 .clm-pp-top .checkbox-group {
+	padding: 18px 10px 18px 24px;
+}
+.clm-paper2 .clm-pp-top .checkbox-group label span.box {
+	left: 12px !important;
+}
+.dash99 {
+    height: auto;
+}
+.checkbox-group label .check {
+    left: 7px;
+}
+.amunt-detail ul li img {
+    margin: 0 0 8px 3px;
+}
+.block2 {
+  padding: 50px 0;
+}
+.btn_center{
+	text-align: center;
+
+  margin: 0 0 20px 0;
+}
+.contact_section .cnst-form .consulation-form form .form-group {
+  margin-bottom: 38px;
+}
+.contact_section .cnst-form {
+  padding: 40px 30px 30px;
+}
+.checkbox-group label {
+  padding-left: 15px;
+}
+.rmm02 {
+  margin-right: 15px;
+}
+.pager-section {
+  padding: 114px 0 30px;
+}
+.pager-section .page-title {
+  font-size: 45px;
+  line-height: 55px;
+}
+.login_rm02 .mm01{
+  margin-left: 16px;
+}
+.login_rm02 .mm01 .checkbox-group label {
+  padding-left: 16px;
+}
+.for_genderr .radio {
+  margin: 0 32px 8px 0 !important;
+}
+.mobile_menu2 {
+	display: block;
+}
+#mobile_menu_dv2{
+	display: none;
+	position: absolute;
+z-index: 999;
+width: 100%;
+top: 46px;
+background:#fff;
+box-shadow: 0px 0px 16px 0px rgba(97, 97, 97, 0.16);
+}
+.cusdashb-left {
+  position: relative;
+  top: inherit;
+}
+.nav_Pannel {
+  margin-top: 0;
+}
+.nav_Pannel ul li a {
+  font-size: 15px;
+  padding: 10px 15px;
+  border-radius: 3px;
+}
+.dash-menu ul li {
+  margin-right: 28px;
+}
+.dash-menu ul li a img {
+	margin: 0px 4px 0 0;
+}
+.tabble_ress{
+	padding: 0;
+}
+.small_screen2 {
+	border-radius: 6px;
+}
+.amunt-detail ul li img {
+  margin: 0 0 0 3px;
+}
+.amunt-detail {
+	border-bottom: none;
+}
+.cols_body {
+  padding: 18px 12px;
+}
+.colsMember {
+  width: 48%;
+  margin: 0 1% 17px 1%;
+  min-height: 350px;
+}
+.meb_shptxt {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+.cols_haead {
+    height: 78px;
+}
+.dash_thumbs_info {
+	width: 31%;
+	margin: 0 1% 15px 1%;
+}
+.for_dp {
+  padding: 0 0 0 7px;
+}
+.post-thumbnail{
+height:auto;
+}
+.preview_all_will_mail .added_beneficiariess h3 {
+  width: 100% !important;
+  margin: 0 !important;
+}
+.preview_all_will_mail .added_beneficiariess p {
+  width: 100% !important;
+  float: left !important;
+}
+.preview_all_will_mail .added_beneficiariess {
+  width: 47% !important;
+  margin: 0 1.5% 15px 1.5% !important;
+}
+.inner_page_header {
+  padding-top: 18px;
+}
+.pre_wil_view{
+    text-align: left !important;
+    margin-left: 231px;
+}
+.gender_box .error {
+    position: absolute!important;
+    top: 45px;
+}
+.mh-850 {
+  min-height: inherit !important;
+}
+.blog-page-content {
+  padding: 22px 0 60px;
+}
+.top_battn_new {
+	top: -43px !important;
+}
+.cus-dashboard-right {
+	width: 100%;
+	margin-top: 54px;
+}
+
+.top-gap{
+    top: 57px !important;
+}
+.team_boxx_size .team .team-info {
+    min-height:399px;
+}
+}
+
+/*991*/
+
+
+
+@media (max-width:840px) {
+.dash-menu ul li a img {
+  display: none;
+}
+}
+
+
+
+@media (max-width:767px) {
+.login_rm {
+  max-width: 100%;
+}
+
+.rmm02 {
+  margin-right: 15px;
+}
+
+/*table*/
+.small_screen2 {
+    margin: 0 0 20px 0 !important;
+    width: 100% !important;
+}
+.rmm02 a {
+  font-size: 13px;
+}
+.checkbox-group label {
+  font-size: 14px;
+}
+.contact_section .cnst-form .consulation-form form .form-group {
+  font-size: 14px;
+}
+.form-group > a {
+  font-size: 14px;
+ }
+.checkbox-group {
+  padding: 0 0 42px 15px;
+}
+.pager-section .page-title {
+  display: none;
+}
+.pager-section {
+  padding: 100px 0 0px;
+}
+.login_rm02 {
+  padding: 25px 18px 15px 18px !important;
+}
+.login_rm02 .rmm02 a {
+  padding-left: 0;
+  }
+ .forgott_001 {
+  font-size: 34px !important;
+}
+.login_rm02 .section-title .h-title {
+  font-size: 42px;
+}
+
+
+.inner_page_header .header-content .menu-btn {
+  margin-left: inherit !important;
+}
+
+.dash-right-inr {
+  padding: 16px 4px !important;
+}
+.for_dashboard {
+  padding: 0 !important;
+}
+.af_log_dv em b img {
+  width: 36px;
+  height: 36px;
+}
+.header-content .menu-btn{
+  flex: 0 0 45px;
+  max-width: 45px;
+  margin-top: 4px;
+}
+.header-content.aftr-log .menu-btn{
+  flex: 0 0 23px;
+  max-width: 23px;
+  margin-top: 4px;
+}
+.dash_area_hd {
+	display: none;
+}
+.edit_profile_v2 {
+  padding-top: 92px !important;
+}
+.tabble_ress {
+  padding: 0 15px;
+}
+.for_filter_srch001 {
+  width: 23%;
+  margin: 0 0 0 2.5%;
+}
+.paginationsec {
+	padding-top: 0;
+}
+/*.top_battn_new {
+  position: relative;
+  right: inherit;
+  top: inherit;
+  margin: 0 0 15px 0;
+  float: left;
+}*/
+.didlex {
+  display: block;
+}
+.cus-dashboard-right h2 {
+  font-size: 24px;
+  line-height: 24px;
+}
+.for_filter_srch001 {
+  width: 96%;
+  margin: 0 2%;
+}
+.for_filter_srch002 {
+  margin: 24px 0 0px 2%;
+}
+.added_beneficiariess h3 {
+  font-size: 16px;
+  line-height: 21px;
+}
+.added_beneficiariess p {
+  font-size: 16px;
+  line-height: 21px;
+}
+.added_beneficiariess {
+  padding: 8px 8px 10px 10px;
+}
+.beneficiaries_headingg h1 {
+  margin: 14px 0 10px 0;
+}
+.meb_shptxt label {
+  font-size: 16px;
+}
+.ne_log .section-title .h-title {
+  font-size: 27px;
+  line-height: 26px;
+}
+
+
+
+.dash_thumbs_info {
+  width: 47%;
+  margin: 0 1.5% 15px 1.5%;
+}
+.for_dp {
+  padding: 0 8px 0 9px;
+}
+.ne_excc p strong {
+  width: 100%;
+  font-weight: 600;
+  margin: 0 0 5px 0;
+}
+.ne_excc p span {
+  width: 100%;
+}
+.ne_excc p {
+  line-height: 22px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 12px;
+}
+.ne_excc {
+    padding: 12px 16px 4px 16px;
+}
+.ne_excc p strong img {
+  width: 18px;
+  margin: 4px 7px 0 0;
+}
+
+
+.preview_all_will_mail .added_beneficiariess {
+  width: 94% !important;
+  margin: 0 3% 10px 3% !important;
+}
+.all_will_infoo01 li {
+  width: 100%;
+}
+.preview_all_will_mail .beneficiaries_headingg h1 {
+  margin: 0 0 8px 0 !important;
+}
+.preview_all_will_mail .accordion_container > a img {
+  display: none;
+}
+.preview_all_will_mail .accordion_container > a {
+  right: 10px;
+}
+
+.profile_infop01 {
+  padding: 12px 15px;
+}
+.profile_infop01 ul li {
+  margin: 0 0 4px 0;
+  font-size: 15px;
+}
+.profile_infop01 ul li strong{
+	width:125px;
+}
+.profile_infop01 ul li span{
+	width: calc(100% - 128px);
+}
+.meb_shptxt {
+  text-align: left;
+}
+.profile_infop02 p strong {
+  width: 100%;
+  display: block;
+  float: left;
+}
+.profile_infop02 p > img {
+  margin: -2px 12px 0 2px;
+  width: 19px;
+}
+.ollp22 p {
+  line-height: 27px !important;
+  margin: 0 0 14px 0;
+}
+.ttpss p > img {
+  margin: -4px 6px 0 2px;
+  width: 19px;
+}
+.for_ppcb {
+  padding: 20px 14px !important;
+}
+.nnec_page_neww{
+	padding: 25px 2px 15px 2px !important;
+}
+.top_battn_new {
+  top: 7px;
+}
+.rr_border {
+	border: none;
+}
+.cash_fix {
+    width: 47% !important;
+}
+.cash_fix_1 {
+    width: 65% !important;
+}
+.cash_fix_1 label{
+    width: fit-content;
+}
+.main-banner .banner-text {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.main-banner .banner-text > h2{
+  font-size: 77px;
+  line-height: 1.2;
+}
+.block_1_top {
+  padding: 80px 0px 50px 0px;
+}
+.counter-section .counter-col h2 {
+  font-size: 70px;
+}
+.counter-section .counter-col > span {
+  font-size: 16px;
+}
+.services-sec1 h2{
+  margin-bottom: 22px;line-height:50px;
+}
+.will-clm-box{
+  border-right:0px solid transparent;
+  border-bottom: 1px solid #070c1f;
+  margin-bottom: 20px;
+  height: auto;
+}
+.will-clm-box.lst-clm{
+  margin-bottom: 0px;
+}
+.phonecode-sec .select2-container--default .select2-selection--single {
+	min-height: 39px !important;
+}
+.posts .post .post-info {
+	padding: 46px 20px 44px !important;
+}
+.subscribe_modal .modal-header button.close {
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
+.nwdes-sec .top_battn_new {
+	top: 0px;
+}
+.top_battn_new {
+	top: 0px;
+	padding: 6px 11px;
+}
+.more_blogs{
+  margin:0px auto 0px auto;
+}
+}
+/*767*/
+
+@media (max-width:650px){
+.team-section .row .col-sm-6{
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+}
+.team_boxx_size .team .team-info {
+    min-height:1px;
+}
+.team-thmb{
+    background: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .expert-img-size {
+    width: auto !important;
+    height: 345px;
+} */
+.expert-img-size {
+    width: 100% !important;
+    height: 635px;
+}
+}
+/*650*/
+@media (max-width:575px) {
+.for_filter_srch001 {
+  width: 94%;
+  margin: 0 0 0 3%;
+}
+.top_battn_new {
+	top: -43px !important;
+	padding: 6px 11px;
+}
+.nwdes-sec .top_battn_new {
+	top: -21px;
+}
+.for_filter_srch002 {
+  float: left;
+  margin: 2px 0 14px 3%;
+}
+.tabble_ress {
+  padding: 0 11px;
+}
+.added_beneficiariess h3 {
+  margin: 0;
+  width: 100%;
+}
+.colsMember {
+    width: 100%;
+    margin: 0 0 17px 0;
+    min-height: inherit;
+}
+.cols_haead h2 {
+  margin-top: 15px;
+  margin-bottom: 16px;
+}
+.cols_haead {
+  height: inherit;
+}
+.cash_fix{
+    width: 47% !important;
+}
+.cash_fix_1{
+    width: 47% !important;
+}
+.cash_fix_btn .form-group{
+    margin-bottom: 5px !important;
+}
+.pre_wil_view {
+    margin-left: 199px;
+}
+.gender_box .error {
+    position: absolute !important;
+    top: 45px;
+}
+.main-banner .banner-text > h2 {
+  font-size: 52px;
+  line-height: 1.2;
+}
+.services-sec1 h2{
+  margin-bottom: 21px;line-height:50px;
+}
+.prvt-hd h2 {
+  font-size: 52px;
+}
+.services_page .refinee03 {
+  width:100% !important;
+}
+.service-price div{
+  justify-content: space-between;
+  width: 100%;
+}
+.service-price div .purchase_btn{
+  display: block;
+}
+.cus-dashboard-right {
+	width: 100%;
+	margin-top: 54px;
+}
+.top-gap{
+    top: 57px !important;
+}
+}
+/*575*/
+
+@media (max-width:500px){
+.cash_fix{
+    width: 97% !important;
+}
+.cash_fix_1{
+    width: 40% !important;
+}
+.add_bene_name .cash_fix_1{
+  width: 65% !important;
+}
+.header_log p {
+    display: none;
+}
+.header_log h6{
+    font-size: 0px;
+    width: 18px;
+    height: 18px;
+    display: block;
+    margin-top: -6px;
+}
+}
+
+
+@media (max-width:480px) {
+.for_genderr .radio {
+  margin: 0 10px 10px 0 !important;
+  line-height: 41px;
+}
+.profidropdid {
+	top: 65px;
+}
+.top_battn_new {
+	top: -44px !important;
+	padding: 6px 11px;
+}
+
+.paginationsec li a {
+	width: 31px;
+	height: 38px;
+	font: 500 14px/35px 'Mulish', sans-serif;
+}
+
+/* 25-07-2022 */
+.log-wt-call .contact-head-info li img{
+  width: 14px;
+  margin-top: -5px;
+  display: none;
+  margin-right:4px;
+}
+.log-wt-call .contact-head-info {
+  margin-top: 0px;
+  margin-right: 4px;
+  padding: 2px 4px 2px 0px;
+  border-right: 1px solid #6e6e6e;
+  font-size: 0px;
+}
+ .log-wt-call .contact-head-info li span{
+  font-size: 12px;
+}
+.log-wt-call .contact-head-info {
+  margin-top: 0px;
+  margin-right: 0;
+  padding: 2px 14px 2px 0px;
+  border-right: none;
+  font-size: 0px;
+}
+.fm_lrr{
+	padding:0 7px;
+}
+.profile_infop01 ul li strong{
+	width:100%;
+}
+.profile_infop01 ul li span{
+	width: 100%;
+}
+.profile_infop01 ul li {
+  margin: 0 0 12px 0;
+}
+.logo a img {
+  width: 112px;
+}
+.inner_page_header {
+  padding-top: 14px;
+}
+.inner_page_header {
+  min-height: 81px;
+}
+.top_battn_new {
+    padding: 7px 11px;
+    font-size: 13px;
+}
+.cus-dashboard-right {
+    width: 100%;
+    margin-top:54px;
+}
+.submit_rm {
+    padding: 10px 11px;
+    font-size: 13px;
+}
+.btn-sec button,
+.btn-sec a {
+    margin-right: 5px;
+}
+.header-content .menu-btn {
+    flex: 0 0 30px;
+    max-width: 30px;
+    margin-top: 4px;
+}
+.af_log_dv em b img {
+    width: 30px;
+    height: 30px;
+}
+.af_log_dv em b span img {
+    margin-left: 0px;
+    cursor: pointer;
+    margin-right: 0;
+    width: 10px;
+    height: 14px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.testimonials .testimonial {
+  padding: 34px 25px 29px 25px;
+  margin-bottom: 66px;
+  margin-top: 66px;
+}
+.testimonial-title{margin-bottom: 3px !important;}
+.block_1_top {
+  padding: 50px 0px 50px 0px;
+}
+.error-page .error-content .alert-success p {
+	font-size: 16px;
+	line-height: 26px;
+}
+.error-content.normal-err h2 {
+	font-size: 109px !important;
+}
+.top-gap{
+    top: 17px !important;
+}
+.expert-img-size {
+    width: 100% !important;
+    height: auto;
+}
+}
+/*480*/
+
+@media (max-width:380px) {
+.header-content.aftr-log .logo {
+    flex: 0 0 84px;
+    max-width: 84px;
+}
+.after_login_head.log-wt-call{
+  margin-left: 0px;
+}
+.header-content.aftr-log .logo a img {
+  width: 100%;
+  display: block;
+}
+.inner_page_header {
+  min-height: 76px;
+}
+.inner_page_header {
+  padding-top: 18px;
+}
+.af_log_dv em b img {
+    margin-right: 0px;
+}
+.header-content .contact-head-info li {
+    padding: 0 6px;
+}
+.added_beneficiariess p {
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 0px;
+}
+.preview_all_will_mail .accordion_head {
+    font-size: 14px;
+    padding-left: 34px !important;
+}
+.all_perv_icn{
+   width: 26px;
+   height: 26px;
+   left: 4px;
+}
+.all_perv_icn img{
+    width: 15px;
+    margin-top: 3px;
+ }
+ .main-banner .banner-text > h2 {
+  font-size: 44px;
+  line-height: 1.2;
+}
+.main-banner {
+  padding: 114px 0 48px;
+}
+.counter-row {
+  padding-top: 15px;
+  justify-content: space-evenly;
+}
+.counter-row li {
+  flex: 0 0 49%;
+  max-width: 49%;
+  text-align: center;
+  margin-bottom: 17px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+.login_rm02 .rmm01 .checkbox-group {
+  padding: 4px 0 5px 15px;
+}
+.login_rm02 .rmm02 {
+  margin-right: 14px;
+  padding-top: 4px;
+  margin-bottom: 10px;
+}
+.add_bene_name .cash_fix_1{
+  width: 69% !important;
+}
+}
+/*380*/
+
+
+@media only screen and (max-width: 1199px) and (min-width: 991px)  {
+
+}
